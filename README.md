@@ -20,4 +20,4 @@ Contributing code:
 
 ## License
 
-[BSD 3-clause](LICENSE)
+[Creative Commons 3.0](LICENSE.txt)
