@@ -17,6 +17,7 @@ Contributing code:
 1. Push to github: `git push`
 1. Submit a new pull request on github :D
 
+See the [screencast](https://www.youtube.com/watch?v=1R4DdoC0hNI)!
 
 ## License
 
